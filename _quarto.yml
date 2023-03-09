@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Justin Gregoire - personal site"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: resume/resume.pdf
+        text: Resume
+      - about.qmd
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: index.qmd
+        text: Home
+      - about.qmd
+    
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
