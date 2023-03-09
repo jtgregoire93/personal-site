@@ -10,15 +10,7 @@ website:
       - about.qmd
       - href: resume.pdf
         text: Resume
-      - about.qmd
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - href: index.qmd
-        text: Home
-      - about.qmd
     
-
 format:
   html:
     theme: cosmo
