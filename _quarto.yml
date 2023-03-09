@@ -8,7 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: resume/resume.pdf
+      - href: resume.pdf
         text: Resume
       - about.qmd
       - href: index.qmd
@@ -22,7 +22,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: css/styles.css
     toc: true
 
 editor: visual
